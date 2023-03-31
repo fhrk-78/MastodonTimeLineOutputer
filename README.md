@@ -1,0 +1,2 @@
+# MastodonTimeLineOutputer
+Simple lol
